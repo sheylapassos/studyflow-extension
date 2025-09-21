@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  padding: 10px;
+  width: 300px;
+}
+
+#timer {
+  font-size: 2em;
+  margin: 10px 0;
+}
+
+button {
+  margin-top: 5px;
+  padding: 5px 10px;
+}
